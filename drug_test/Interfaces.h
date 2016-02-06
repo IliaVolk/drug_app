@@ -16,7 +16,7 @@ class DruggingMouseHandler;
 
 
 //rectangles
-class Rectangle;
+class MyRectangle;
 class RectangleMouseVerticalSideManipulator;
 class RectangleMouseHorizontalSideManipulator;
 class RectangleMouseCornerManipulator;
